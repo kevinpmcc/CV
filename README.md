@@ -1,10 +1,10 @@
 ## Kevin McCarthy
 
-A tremendously excitable man, massively passionate about making and doing things that
+A tremendously enthusiastic person, passionate about making and doing things that
 improve people's lives. Gained a ton of experience in a variety of roles during my 8 years at Amazon
 before giving up all the lovely shares to learn to make things with code at
 Makers Academy. I'm looking for a challenging junior development position where
-I can keep learning while adding value. Also fair warning, loud laugh.  
+I can keep learning while adding value. Also fair warning, very loud laugh.
 
 
 ## Skills
