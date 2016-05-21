@@ -1,4 +1,7 @@
 ## Kevin McCarthy
+email: kevinpatrickmccarthy@gmail.com  
+twitter: @kevinpmcc  
+blog: medium.com/@kevinpmcc  
 
 A tremendously enthusiastic person, passionate about making and doing things that
 improve people's lives. Started developing on a BBC Micro aged 9. Gained a ton of experience in a variety of roles during my 8 years at Amazon
@@ -8,16 +11,6 @@ I can keep learning while adding value. Also fair warning, very loud laugh.
 
 
 ## Skills
-
-#### Proactive
-
-I love seeking new ways of doing things and making consistent small
-improvements.
-
-During my time at Makers I consistently made pull requests to improve content
-including considerable rewrites of exercise instructions. 
-
-In my previous roles I pushed  
 
 #### Experimental
 I greatly enjoy trying new things. 
@@ -45,7 +38,6 @@ that are extendable and reusable. Being able to weigh up short-term gains versus
 long-term value. 
 
 #### Innovation
-
   I enjoy coming up with and developing ideas.
   Whilst at Amazon I was shortlisted for the Big Ideas competition in my final two
   years. The ideas submitted were based on improving resources for
@@ -60,31 +52,11 @@ to turn into functioning
 #### Managing Complex Projects
   As global Instructional Design (ID) Project Manager for new Fire tablet launch training, supported ID team in creation of global single source learning objects for 3000+ learners in 10 marketplaces including 7 languages.
   
-  I came on to projects at an early stage building use cases generally about 2-3
-months before products were launched when there still was not set final feature
-set. Assigning resources ahead of time with the knowledge that all timeframes
-could change, feature sets could change and   
-
-#### Determined
-  Prior to starting Makers I had a fear of blogging and social media in general.
-  In order to overcome this I wrote a blog every day during my time at Makers.
-
-  While already employed as an Instructional Designer I self-funded my Masters
-in ID to broaden my knowledge on the topic. I also attended a 6-part workshop
-with Instructional Design guru Cathy Moore which was inspirational. 
-
-#### Customer Obsession
-  While at Amazon I learned a lot about truly valuing your customers. Every
-decision made was built around the customer experience. This was not just about
-end users but also treating stakeholders as customers. Delighting your
-customers was always the goal and by giving them what they need, not necessarily what they want is
-something I've become adept at. 
  
 ## Education
   
 
 #### Makers Academy (Feb 2016 to May 2016)
-
 
   - Curiosity and hungry passion for code
   - Independent learner and problem-solver
@@ -132,5 +104,3 @@ months.
   Theatre  
   Comedy  
 
-**Company Name** (start_date to end_date)   
-  *Your job title*  
