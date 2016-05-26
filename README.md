@@ -62,7 +62,7 @@ to turn into functioning
   - Independent learner and problem-solver
   - OOP, TDD, SOLID, MVC, DDD
   - Software Craftsmanship
-  - Ruby, Rails, Javascript, Node.js, Angular.js
+  - Ruby, Rails, Javascript, Angular.js
   - Rspec, Jasmine, Mocha
 
 #### Walden University  (2014 to 2016)
