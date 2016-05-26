@@ -1,7 +1,7 @@
 ## Kevin McCarthy
 email: kevinpatrickmccarthy@gmail.com  
-twitter: @kevinpmcc  
-blog: medium.com/@kevinpmcc  
+twitter: [@kevinpmcc](http://twitter.com/@kevinpmcc) 
+blog: [medium.com/@kevinpmcc](http://medium.com/@kevinpmcc)  
 
 A tremendously enthusiastic person, passionate about making and doing things that
 improve people's lives. Started developing on a BBC Micro aged 9. Gained a ton of experience in a variety of roles during my 8 years at Amazon
