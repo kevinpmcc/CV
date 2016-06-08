@@ -63,7 +63,7 @@ to turn into functioning
   - OOP, TDD, SOLID, MVC, DDD
   - Software Craftsmanship
   - Ruby, Rails, Javascript, Angular.js
-  - Rspec, Jasmine, Mocha
+  - Rspec, Jasmine
 
 #### Walden University  (2014 to 2016)
 
