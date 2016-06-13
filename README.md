@@ -17,7 +17,7 @@ I greatly enjoy trying new things.
 
 I re-discovered development when I solved an issue we were having removing
 non-relevant content from our training material prior to sending for
-translation. By talking with localization engineer and learning myself about
+translation. By talking with our localization engineer and teaching myself about
 macros I was able to set up a process which enabled us to accurately scope
 localization effort (wordcount) and made it easy to mark content as being not
 for translation. 
