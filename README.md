@@ -28,12 +28,12 @@ audio on our front-end and how to set the time limits on the playing function.
 
 I've recently purchased an Arduino starter kit and have greatly enjoyed playing
 with this. I've successfully created the world's worst theremin and am in
-process of 
+the process of learning
 how to turn this into a Jean-Michel Jarre style keyboard.
 
 #### Long Term Thinking
   I've been through the pain of doing things fast and then trying to scale.
-Through first-hand experience I understand the importance of building things
+Through first-hand experience at Amazon I understand the importance of building things
 that are extendable and reusable. Being able to weigh up short-term gains versus
 long-term value. 
 
@@ -50,7 +50,7 @@ to turn into functioning
   them come to fruition.
 
 #### Managing Complex Projects
-  As global Instructional Design (ID) Project Manager for new Fire tablet launch training, supported ID team in creation of global single source learning objects for 3000+ learners in 10 marketplaces including 7 languages.
+  As global Instructional Design (ID) Project Manager for multiple large-scale launches including the new Fire tablet launch training, I supported the ID team in creation of global single source learning objects for 3000+ learners in 10 marketplaces including 7 languages.
   
 | Project - link to repo | Summary | Key technologies |
 | ---------------------- | :-----: | ---------------: |
