@@ -99,7 +99,9 @@ to turn into functioning
     -  working in schools teaching teenagers interview skills
  
   Suicide hotline worker. Six week training course and manned phone lines for 3
-months. 
+months.  
+  
+  Coach at [codebar.io](https://codebar.io)
 
 ## Interests
   Surfing  
