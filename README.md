@@ -50,7 +50,9 @@ to turn into functioning
   them come to fruition.
 
 #### Managing Complex Projects
-  As global Instructional Design (ID) Project Manager for multiple large-scale launches including the new Fire tablet launch training, I supported the ID team in creation of global single source learning objects for 3000+ learners in 10 marketplaces including 7 languages.
+  As global Instructional Design (ID) Project Manager for multiple large-scale launches including the new Amazon Fire tablet launch training, I supported the ID team in creation of global single source learning objects for 3000+ learners in 10 marketplaces including 7 languages.
+
+  As global ID Program Manager for Amazon Mayday, led cross-functional team in redesign of training materials based on quantitative and qualitative data. Estimated savings from the project were $250,000USD based on learners' reduced time to competency and improved customer satisfaction results.
   
 ## Projects  
 | Project - link to repo | Summary | Key technologies |
