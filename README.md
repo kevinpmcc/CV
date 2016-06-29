@@ -62,12 +62,11 @@ to turn into functioning
 
 #### Makers Academy (Feb 2016 to May 2016)
 
-  - Curiosity and hungry passion for code
-  - Independent learner and problem-solver
+  - Independent learning and problem-solving
   - OOP, TDD, SOLID, MVC, DDD
   - Software Craftsmanship
   - Ruby, Rails, Javascript, Angular.js
-  - Rspec, Jasmine
+  - Rspec, Jasmine, Karma, Protractor
 
 #### Walden University  (2014 to 2016)
 
