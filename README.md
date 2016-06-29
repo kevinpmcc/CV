@@ -52,6 +52,7 @@ to turn into functioning
 #### Managing Complex Projects
   As global Instructional Design (ID) Project Manager for multiple large-scale launches including the new Fire tablet launch training, I supported the ID team in creation of global single source learning objects for 3000+ learners in 10 marketplaces including 7 languages.
   
+## Projects  
 | Project - link to repo | Summary | Key technologies |
 | ---------------------- | :-----: | ---------------: |
 | [Rock Paper Scissors Spock Lizard](https://github.com/kevinpmcc/rps-challenge) | An online implementation of the classic game with updated rules. Available on Heroku:[Rock Paper Scissors Spock Lizard](https://kevin-rps-challenge.herokuapp.com/) |  Ruby, Sinatra.  Tested with RSpec, Capybara. |
