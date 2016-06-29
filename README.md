@@ -78,7 +78,7 @@ to turn into functioning
   - Distance Learning, Corporate Training modules
 
 
-#### Colaiste Stiofain Naofa  (2002 to 2003)
+#### Colaiste Stiofain Naofa  (2004 to 2005)
 
   - FETAC Level 6 Music, Management and Sound
   - Distinction
