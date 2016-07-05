@@ -4,10 +4,10 @@ twitter: [@kevinpmcc](http://twitter.com/@kevinpmcc)
 blog: [medium.com/@kevinpmcc](http://medium.com/@kevinpmcc)  
 
 A tremendously enthusiastic person, passionate about making and doing things that
-improve people's lives. Started developing on a BBC Micro aged 9. Gained a ton of experience in a variety of roles during my 8 years at Amazon
+improve people's lives. Gained a ton of experience in a highly demanding fast-paced environment during my 8 years at Amazon
 before giving up all the lovely shares to learn to make things with code at
 Makers Academy. I'm looking for a challenging junior development position where
-I can keep learning while adding value. Also fair warning, very loud laugh.
+I can keep learning while adding value. 
 
 
 ## Skills
