@@ -90,11 +90,18 @@ to turn into functioning
   - Minored in Computer Science in first year.
 
 
+
 ## Experience
 
-**Amazon** (Oct 2008 to Jan 2016)    
-  *Instructional Designer (also Trainer, Team Lead, Team Manager, Customer
-      Service)*  
+**Amazon** (Jan 2014 to Jan 2016)    
+  *Instructional Designer   
+**Amazon** (Sep 2013 to Jan 2014)  
+  *Interim Team Manager  
+**Amazon** (Sep 2009 to Sep 2013)  
+  *Team Lead  
+**Amazon** (Sep 2008 to Sep 2009)  
+  *Team Lead  
+
 
 ## Volunteering
   Participated in Business in the Community while at Amazon  
