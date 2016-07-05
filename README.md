@@ -94,11 +94,14 @@ to turn into functioning
 ## Experience
 
 **Amazon** (Jan 2014 to Jan 2016)    
-  *Instructional Designer   
+  *Instructional Designer  
+  
 **Amazon** (Sep 2013 to Jan 2014)  
   *Interim Team Manager  
+  
 **Amazon** (Sep 2009 to Sep 2013)  
-  *Team Lead  
+  *Team Lead    
+  
 **Amazon** (Sep 2008 to Sep 2009)  
   *Team Lead  
 
