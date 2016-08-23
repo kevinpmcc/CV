@@ -114,6 +114,8 @@ to turn into functioning
 months.  
   
   Coach at [codebar.io](https://codebar.io)
+  
+  Developer work for Empowerhack. Currently creating Vocapp, an academic language support tool for refugees reconnecting with education. This was for charity Jamiya. Details can be found at [vocapp](https://github.com/empowerhack/vocapp)
 
 ## Interests
   Surfing  
