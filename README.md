@@ -71,7 +71,7 @@ to turn into functioning
   - Ruby, Rails, Javascript, Angular.js
   - Rspec, Jasmine, Karma, Protractor
 
-#### Walden University  (2014 to 2016)
+#### Walden University  (2013 to 2015)
 
   - Masters of Science in Instructional Design
   - 4.0 GPA 
