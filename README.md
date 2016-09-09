@@ -57,6 +57,7 @@ to turn into functioning
 ## Projects  
 | Project - link to repo | Summary | Key technologies |
 | ---------------------- | :-----: | ---------------: |
+| [VocApp](https://github.com/empowerhack/vocapp) | The purpose of VocApp is to support refugees studying at university in a second language. This is a work-in-progress prototype built with EmpowerHack team for The Jamiya Project. Available on Heroku:[VocApp](https://vocabulary-app.herokuapp.com/) |  Rails.  Tested with RSpec, Capybara. |
 | [Rock Paper Scissors Spock Lizard](https://github.com/kevinpmcc/rps-challenge) | An online implementation of the classic game with updated rules. Available on Heroku:[Rock Paper Scissors Spock Lizard](https://kevin-rps-challenge.herokuapp.com/) |  Ruby, Sinatra.  Tested with RSpec, Capybara. |
 | [Second Guessing](https://github.com/kevinpmcc/web-spotify-game) | A single page responsive web application version of Name That Tune. Available on Heroku:[Second Guessing](https://spotify-game.herokuapp.com/) | AngularJS, NodeJS, Spotify API. Tested with Karma and Protractor. |
 
@@ -109,13 +110,10 @@ to turn into functioning
 ## Volunteering
   Participated in Business in the Community while at Amazon  
     -  working in schools teaching teenagers interview skills
- 
-  Suicide hotline worker. Six week training course and manned phone lines for 3
-months.  
   
   Coach at [codebar.io](https://codebar.io)
   
-  Developer work for Empowerhack. Currently creating Vocapp, an academic language support tool for refugees reconnecting with education. This was for charity Jamiya. Details can be found at [vocapp](https://github.com/empowerhack/vocapp)
+  Developer work for [EmpowerHack](http://empowerhack.io/). Currently creating Vocapp, an academic language support tool for refugees reconnecting with education. 
 
 ## Interests
   Surfing  
