@@ -3,39 +3,16 @@ email: kevinpatrickmccarthy@gmail.com
 twitter: [@kevinpmcc](http://twitter.com/@kevinpmcc)   
 blog: [medium.com/@kevinpmcc](http://medium.com/@kevinpmcc)  
 
-A tremendously enthusiastic person, passionate about making and doing things that
-improve people's lives. Gained a ton of experience in a highly demanding fast-paced environment during my 8 years at Amazon
-before giving up all the lovely shares to learn to make things with code at
-Makers Academy. I'm looking for a challenging junior development position where
-I can keep learning while adding value. 
+Instructional Designer turned Junior Developer via Makers Academy bootcamp. Looking for an opportunity to utilise my experience at Amazon in a high-pressure, fast-moving, delivery-focused environment, to now create test-driven, clean code and continue my journey to becoming a Software Craftsman.
 
 
 ## Skills
 
-#### Experimental
-I greatly enjoy trying new things. 
+#### Curiosity
+  I love to learn how things work and investigate different approaches. To solve an issue in a localisation process I learned to write macros and created an automated solution. For our final project in Makers we delivered a completed product in 2 weeks using the Ionic framework which we had never used before. 
 
-I re-discovered development when I solved an issue we were having removing
-non-relevant content from our training material prior to sending for
-translation. By talking with our localization engineer and teaching myself about
-macros I was able to set up a process which enabled us to accurately scope
-localization effort (wordcount) and made it easy to mark content as being not
-for translation. 
-
-When developing our "Second Guessing" app none of us had used audio previously
-and during our research stage I set up a sandbox to experiment with playing
-audio on our front-end and how to set the time limits on the playing function. 
-
-I've recently purchased an Arduino starter kit and have greatly enjoyed playing
-with this. I've successfully created the world's worst theremin and am in
-the process of learning
-how to turn this into a Jean-Michel Jarre style keyboard.
-
-#### Long Term Thinking
-  I've been through the pain of doing things fast and then trying to scale.
-Through first-hand experience at Amazon I understand the importance of building things
-that are extendable and reusable. Being able to weigh up short-term gains versus
-long-term value. 
+#### Prioritisation/Time Management 
+  When managing intake of Digital Instructional Design projects I’d need to quickly assess severity and impact of projects to assign resources. I’d frequently own multiple new projects at one time while continuing maintenance work on existing curricula..
 
 #### Innovation
   I enjoy coming up with and developing ideas.
@@ -48,6 +25,9 @@ make as our final two projects. I had three of my app ideas chosen by the group
 to turn into functioning
   products. I get an enormous sense of satisfaction from pitching ideas and seeing
   them come to fruition.
+  
+#### Strong Communicator 
+From dealing directly with customers to negotiating training timelines with Directors I’ve gained experience in being an effective communicator. At Makers Academy bootcamp I’ve learned to clearly communicate ideas with my pair programming partner and intent through clearly written code.
 
 #### Managing Complex Projects
   As global Instructional Design (ID) Project Manager for multiple large-scale launches including the new Amazon Fire tablet launch training, I supported the ID team in creation of global single source learning objects for 3000+ learners in 10 marketplaces including 7 languages.
@@ -113,7 +93,7 @@ to turn into functioning
   
   Coach at [codebar.io](https://codebar.io)
   
-  Developer work for [EmpowerHack](http://empowerhack.io/). Currently creating Vocapp, an academic language support tool for refugees reconnecting with education. 
+  Developer work for [EmpowerHack](http://empowerhack.io/). Currently creating Vocapp, an academic language support tool for refugees reconnecting with education for [Jamiya](http://jamiya.org/vocapp/). 
 
 ## Interests
   Surfing  
