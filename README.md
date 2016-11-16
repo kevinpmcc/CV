@@ -1,5 +1,4 @@
 ## Kevin McCarthy
-email: kevinpatrickmccarthy@gmail.com  
 twitter: [@kevinpmcc](http://twitter.com/@kevinpmcc)   
 blog: [medium.com/@kevinpmcc](http://medium.com/@kevinpmcc)  
 
