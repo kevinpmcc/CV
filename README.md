@@ -83,7 +83,7 @@ From dealing directly with customers to negotiating training timelines with Dire
   *Team Lead    
   
 **Amazon** (Sep 2008 to Sep 2009)  
-  *Team Lead  
+  *Customer Service Associate 
 
 
 ## Volunteering
